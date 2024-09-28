@@ -2,3 +2,7 @@ main {
     background-color: rgb(8, 8, 44);
     height: 800px;
 }
+
+@media screen and (max-width: 576px) {
+   
+}
