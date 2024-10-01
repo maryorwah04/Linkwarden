@@ -1,5 +1,17 @@
-header, main {
+header, main, section {
     background-color: rgb(8, 8, 44);
+}
+
+.col-md-3 {
+    background-image: url('./assets/images/SVG\ by\ MagicPattern.design\ \(1\).png');
+    background-size: cover;
+    background-position: center;
+}
+
+.rectangle {
+    background-image: url('./assets/images/Rectangle\ 30\ \(1\).png');
+    background-size: cover;
+    background-position: center;
 }
 
 @media screen and (max-width: 576px) {
