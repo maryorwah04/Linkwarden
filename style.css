@@ -1,5 +1,12 @@
-header, main, section {
-    background-color: rgb(8, 8, 44);
+header, section {
+    background-color: rgb(3, 3, 18);
+}
+
+main {
+    background-image: url('./assets/images/SVG\ by\ MagicPattern.design\ \(2\).png');
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(3, 3, 18);
 }
 
 .col-md-3 {
