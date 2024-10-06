@@ -32,8 +32,7 @@ main {
 .plan-child-two, .plan-child-two > .btn {
     border-radius: 20px;
     backdrop-filter: blur(100px);
-    box-shadow: 10px 0px 30px 0px rgba(196, 192, 192, 0.25);
-    box-shadow: -10px -10px 30px 0px rgba(228, 213, 213, 0.25);
+    box-shadow: inset 2px -2px 20px 10px rgba(228, 213, 213, 0.25);
     background-position: right;
 }
 
