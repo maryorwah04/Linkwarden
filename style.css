@@ -35,7 +35,3 @@ main {
     box-shadow: inset 2px -2px 20px 10px rgba(228, 213, 213, 0.25);
     background-position: right;
 }
-
-@media screen and (max-width: 576px) {
-   
-}
