@@ -11,6 +11,11 @@ main {
   background-color: rgb(1, 1, 12);
 }
 
+.btn-primary,
+.bg-primary {
+  background: linear-gradient(229.46deg, #582ea0 0%, #36078e 86.82%);
+}
+
 .more > .col-md-3 {
   background-image: url('./assets/images/SVG\ by\ MagicPattern.design\ \(1\).png');
   background-size: cover;
